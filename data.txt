@@ -1,0 +1,4 @@
+https://www.federalreserve.gov/datadownload/Download.aspx?rel=H15&series=bf17364827e38702b42a58cf8eaa3f78&lastobs=&from=&to=&filetype=csv&label=include&layout=seriescolumn&type=package
+http://hdr.undp.org/en/data#
+https://fred.stlouisfed.org/series/M1
+https://data.worldbank.org/indicator/FI.RES.TOTL.CD

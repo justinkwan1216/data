@@ -1,0 +1,9 @@
+m1
+m2
+birthrate
+employe rate
+inflation rate
+developer
+
+kelly formula
+{p(b+1)-1}/b
